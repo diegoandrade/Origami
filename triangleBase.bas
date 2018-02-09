@@ -1,5 +1,6 @@
 Attribute VB_Name = "Module5"
-' Diego Andrade
+' Diego Andrade 
+' diegoandrade@usf.edu
 ' All rights reserved
 ' 2018 USF
 
